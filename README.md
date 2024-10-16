@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranav!</h1>
-<h3 align="center">Curious Explorer 🚀 | Diving Deep into Cybersecurity, AI/ML, and Future Tech | Innovating Through Collaboration and Open-Source Magic ✨</h3>
-<img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/9a25dbf27f91c354e0a9e85268104de67b6ada550d5a4830fee656d2b5d9143d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966" />
+<h3 align="center">Curious Explorer 🚀 | Diving Deep into Cybersecurity, AI/ML, and Future Tech✨</h3>
+<img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/9a25dbf27f91c354e0a9e85268104de67b6ada550d5a4830fee656d2b5d9143d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966" />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavs1604&show_icons=true&locale=en" alt="pranavs1604" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavs1604&label=Profile%20views&color=0e75b6&style=flat" alt="pranavs1604" /> </p>
